@@ -1,16 +1,9 @@
 {
-  "posts":[
+  "tasks": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "isCompleted": true,
+      "name": "Vicky",
+      "id": "7e00e482-37a6-45c8-a476-2320a0205b90"
     }
   ]
 }
